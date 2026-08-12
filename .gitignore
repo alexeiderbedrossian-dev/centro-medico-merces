@@ -1,0 +1,17 @@
+node_modules
+.vercel
+.output
+dist
+screenshots
+attachments
+artifacts
+tmp
+.grok
+*.log
+.node_modules.lock
+.DS_Store
+.env
+.env.*
+!.env.example
+AGENTS.md
+vendor

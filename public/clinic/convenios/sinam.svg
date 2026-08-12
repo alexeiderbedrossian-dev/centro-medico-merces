@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="140" viewBox="0 0 320 140" role="img" aria-label="Sinam Saúde">
+  <rect width="320" height="140" rx="12" fill="#ffffff"/>
+  <rect width="10" height="140" rx="0" fill="#6B2D8B"/>
+  <circle cx="56" cy="70" r="28" fill="#6B2D8B"/>
+  <text x="56" y="76" text-anchor="middle" font-family="system-ui,Segoe UI,sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">S</text>
+  <text x="100" y="64" font-family="system-ui,Segoe UI,sans-serif" font-size="22" font-weight="700" fill="#142426">Sinam</text>
+  <text x="100" y="90" font-family="system-ui,Segoe UI,sans-serif" font-size="15" font-weight="500" fill="#5a6b6d">Saúde</text>
+</svg>
