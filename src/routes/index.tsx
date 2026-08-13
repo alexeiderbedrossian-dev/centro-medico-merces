@@ -978,9 +978,6 @@ function Gallery() {
                 className="aspect-[4/3] w-full object-cover"
                 loading="lazy"
               />
-              <figcaption className="px-4 py-3 text-sm text-fg-muted">
-                {item.caption}
-              </figcaption>
             </figure>
           ))}
         </div>
